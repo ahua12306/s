@@ -1,0 +1,8 @@
+{
+  "name": "s",
+  "installCommand": "",
+  "buildCommand": "",
+  "assets": {
+    "directory": "./"
+  }
+}
